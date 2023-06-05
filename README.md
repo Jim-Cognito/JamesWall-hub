@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Jim-Cognito!
 - 👀 I’m a full-stack web developer.
-- 🌱 I’m currently learning game development.
